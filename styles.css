@@ -1,0 +1,47 @@
+.main {
+    color: black;
+    text-transform: capitalize;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
+.Para {
+    text-align: center;
+    border: 1px solid black;
+    padding: 0.5em;
+}
+
+body {
+    background-image: linear-gradient(purple, white)
+}
+
+.corp {
+    text-align: center;
+    padding: 0.5em;
+}
+
+.wifi {
+    text-align: center;
+    padding: 0.5em;
+}
+
+.laptop {
+    text-align: center;
+    padding: 0.5em;
+}
+
+#P1 {
+    float: center;
+    border: 1px solid black;
+}
+
+#P2 {
+    float: center;
+    border: 1px solid black;
+}
+
+#P3 {
+    float: center;
+    border: 1px solid black;
+}
